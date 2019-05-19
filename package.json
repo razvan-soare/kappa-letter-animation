@@ -1,8 +1,8 @@
 {
-  "name": "fractal-tree-simulator",
+  "name": "kappa-letter-animation",
   "version": "2.1.1",
   "private": true,
-  "description": "An advanced example of using React with p5.js",
+  "description": "Letter animation for kappa.london",
   "keywords": [
     "react",
     "reactjs",
@@ -18,12 +18,9 @@
   "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atorov/fractal-tree-simulator.git"
+    "url": "https://github.com/razvan-soare/kappa-letter-animation"
   },
-  "bugs": {
-    "url": "https://github.com/atorov/fractal-tree-simulator/issues"
-  },
-  "author": "atorov",
+  "author": "soarerazvan",
   "license": "MIT",
   "main": "src/index.js",
   "dependencies": {
